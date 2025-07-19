@@ -21,8 +21,8 @@ This is the classic starting point for learning any programming language. The "H
 - Use of `cout` to display output on the console.
 
 **SampleOutput:**
-HELLO WORLD
-HI!I AM PALAK SONI
+- HELLO WORLD
+- HI!I AM PALAK SONI
 
 **Purpose:**  
 To understand how to print text and get familiar with the syntax and structure of a simple C++ program.
