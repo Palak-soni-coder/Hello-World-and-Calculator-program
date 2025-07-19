@@ -20,6 +20,10 @@ This is the classic starting point for learning any programming language. The "H
 - The `main()` function as the entry point.
 - Use of `cout` to display output on the console.
 
+**SampleOutput:**
+HELLO WORLD
+HI!I AM PALAK SONI
+
 **Purpose:**  
 To understand how to print text and get familiar with the syntax and structure of a simple C++ program.
 
@@ -38,6 +42,8 @@ This program acts as a basic command-line calculator that performs the four fund
 - Takes two floating-point numbers as input from the user using `cin`.
 - Performs each arithmetic operation and stores the results in variables.
 - Displays the output clearly with appropriate labels.
+
+**SampleOutput:**
 
 **Objective:**  
 To practice user input handling, variable declaration, data types (especially `float`), and basic arithmetic operations.
