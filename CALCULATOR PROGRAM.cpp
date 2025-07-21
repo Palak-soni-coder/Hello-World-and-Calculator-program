@@ -1,7 +1,8 @@
-EXPERIMENT - 1
-PALAK SONI
-24070123069
-ENTC A3
+//EXPERIMENT - 1
+//PALAK SONI
+//24070123069
+//ENTC A3
+//Problem Statement: Write a program using C++ to make a simple calculator.
 
 #include <iostream>
 
@@ -23,3 +24,5 @@ int main(){
     subtraction=num1-num2;
     cout<<"\nThe subtraction of num1 and num2 is:\n"<<subtraction;
 }
+
+//output
